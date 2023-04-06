@@ -1,0 +1,7 @@
+main:
+  - title: "🤖 Posts and Projects"
+    url: /posts/
+  - title: "📄 Resume"
+    url: /resume/
+  - title: "👀 About me"
+    url: /about/
