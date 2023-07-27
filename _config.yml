@@ -2,7 +2,8 @@
 title: Missael Barco🚀
 email: missaelgabo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mexican physics student, passionate about cosmology, astrophysics, and artificial intelligence 🤖.
+  MSc in Physics student at Université de Montréal.
+  Passionate about cosmology, astrophysics, and AI.
 twitter_username: GMissaelBarco
 github_username: GabrielMissael
 minimal_mistakes_skin: default
@@ -44,29 +45,33 @@ plugins:
 author:
   name   : "Gabriel Missael Barco"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mexican physics student, passionate about cosmology, astrophysics, and artificial intelligence 🤖. I love to learn new things and share my knowledge with others ✨"
+  bio    : "MSc in Physics student at Université de Montréal.
+  Passionate about cosmology, astrophysics, and AI."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GMissaelBarco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel.missael.barco@umontreal.ca"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/GMissaelBarco"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GMissaelBarco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel.missael.barco@umontreal.ca"
 
 defaults:
   # _posts
