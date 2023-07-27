@@ -1,21 +1,28 @@
 
-title: Missael Barco🚀
+title: Missael Barco
+subtitle: MSc in Physics @ Université de Montréal
 email: missaelgabo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mexican physics student, passionate about cosmology, astrophysics, and artificial intelligence 🤖.
+  MSc in Physics student at Université de Montréal.
+  Passionate about cosmology, astrophysics, and AI.
+  I love to learn new things and share my knowledge with others.
 twitter_username: GMissaelBarco
 github_username: GabrielMissael
 minimal_mistakes_skin: default
 search: false
+locale: "en-US"
+repository: "GabrielMissael/GabrielMissael.github.io"
+teaser: /assets/images/500x300.png
+logo: "/assets/images/88x88.png"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Mexico_City # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Montreal # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -44,29 +51,35 @@ plugins:
 author:
   name   : "Gabriel Missael Barco"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mexican physics student, passionate about cosmology, astrophysics, and artificial intelligence 🤖. I love to learn new things and share my knowledge with others ✨"
+  bio    : "MSc in Physics student at Université de Montréal.
+  Passionate about cosmology, astrophysics, and AI.
+  I love to learn new things and share my knowledge with others."
+  location: "Montréal, Canada"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GMissaelBarco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel.missael.barco@umontreal.ca"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/GMissaelBarco"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GMissaelBarco"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel.missael.barco@umontreal.ca"
 
 defaults:
   # _posts
@@ -77,9 +90,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+      show_date: true
+      read_time: true
   # _pages
   - scope:
       path: "_pages"
@@ -94,3 +109,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+og_image: /assets/images/bio-photo.jpg
