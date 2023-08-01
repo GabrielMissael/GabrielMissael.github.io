@@ -6,6 +6,11 @@ layout: home
 author_profile: true
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+# Grid layout
+entries_layout: grid
+classes: wide
+#header:
+#    image: /assets/images/header_home.png
 ---
 
 <script>
@@ -18,6 +23,3 @@ paginate_path: /page:num/
     sidebar.style.opacity = 1;
 </script>
 
-Hi!
-
-TO-DO: Add short description of page and myself
