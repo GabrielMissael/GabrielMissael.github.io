@@ -1,11 +1,8 @@
-
-title: Missael Barco
-subtitle: MSc in Physics @ Université de Montréal
+title: Gabriel Missael Barco
+subtitle: PhD student @ Université de Montréal & Mila
 email: missaelgabo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  MSc in Physics student at Université de Montréal.
-  Passionate about cosmology, astrophysics, and AI.
-  I love to learn new things and share my knowledge with others.
+  Astrophysics × Probabilistic ML | PhD student @ Université de Montréal & Mila
 twitter_username: GMissaelBarco
 github_username: GabrielMissael
 minimal_mistakes_skin: default
@@ -49,11 +46,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Gabriel Missael Barco"
+  # name   : ""
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MSc in Physics student at Université de Montréal.
-  Passionate about cosmology, astrophysics, and AI.
-  I love to learn new things and share my knowledge with others."
+  bio    : >-
   location: "Montréal, Canada"
   links:
     - label: "GitHub"
