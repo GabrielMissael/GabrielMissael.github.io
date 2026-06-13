@@ -1,0 +1,75 @@
+- title: "Cosmic Distortions: AI and Gravitational Lenses"
+  period: "July 2025"
+  context: "Clubes de Ciencia Mexico, University of Guanajuato"
+  role: "Co-designer and instructor"
+  summary: "A week-long workshop on gravitational lensing, simulations, and machine learning."
+  tags:
+    - CdeCMx
+    - astronomy education
+    - machine learning
+  links:
+    - label: "Course listing"
+      url: "https://clubesdeciencia.mx/clubes-2025/"
+
+- title: "Clubes de Ciencia Mexico"
+  period: "2020-2024"
+  context: "Guanajuato team and national volunteer network"
+  role: "Volunteer and team member"
+  summary: "Supported hands-on science workshops, Python teaching, and summer program coordination across Mexico."
+  tags:
+    - STEM access
+    - volunteer work
+    - Mexico
+  links:
+    - label: "Team"
+      url: "https://clubesdeciencia.mx/en/team/"
+
+- title: "Online data science education during COVID"
+  period: "2020-2022"
+  context: "CdeCMx Challenge and Harvard Data Science Review"
+  role: "Organizer and co-author"
+  summary: "Helped move a national data science education program online during COVID."
+  tags:
+    - data science education
+    - online learning
+    - HDSR
+  links:
+    - label: "Article"
+      url: "https://hdsr.mitpress.mit.edu/pub/drhcgp91"
+
+- title: "GitHub Campus Expert and student community building"
+  period: "2021-2023"
+  context: "University of Guanajuato Physics Student Association"
+  role: "Campus Expert, co-founder, organizer"
+  summary: "Co-founded a physics student association and organized GitHub, Python, and machine-learning events."
+  tags:
+    - GitHub Campus Experts
+    - student community
+    - technical workshops
+  links:
+    - label: "GitHub profile"
+      url: "https://github.com/GabrielMissael"
+
+- title: "HackCIMAT 2023"
+  period: "March 2023"
+  context: "CIMAT Zacatecas"
+  role: "Planner, mentor, workshop instructor"
+  summary: "Co-organized the first HackCIMAT event, mentored teams, and taught applied ML workshops."
+  tags:
+    - hackathon
+    - mentorship
+    - Mexico
+  links:
+    - label: "Event page"
+      url: "https://hackcimat.eventos.cimat.mx/inicio_hackcimat"
+
+- title: "Municipal Youth Award - Science and Technology"
+  period: "2021"
+  context: "Leon, Guanajuato"
+  role: "Award recipient"
+  summary: "Recognized for leadership in science outreach and technology education."
+  tags:
+    - recognition
+    - civic engagement
+    - science outreach
+  links: []

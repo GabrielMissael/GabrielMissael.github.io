@@ -1,3 +1,3 @@
-# Hello!
+# Gabriel Missael Barco
 
-This is my personal static website and blog. It's built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). I use the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
+Personal academic website built with [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/), and styled with the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.

@@ -1,9 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Resume"
-    url: /resume/
-  - title: "About me"
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "About"
     url: /about/
-  - title: "Posts and Projects"
-    url: /posts/

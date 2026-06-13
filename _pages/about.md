@@ -1,22 +1,12 @@
 ---
 permalink: /about/
-title: "About me 👀"
+title: "About"
 author_profile: true
 classes: wide
 ---
 
-<script>
-    // BY BUBU :D
-    // Get the sidebar with class names sidebar sticky
-    let sidebar = document.getElementsByClassName("sidebar sticky")[0];
-    // Remove hover effect
-    sidebar.classList.remove("hover");
-    // Change Opacity to 1
-    sidebar.style.opacity = 1;
-</script>
+I am a PhD student in Physics at Université de Montréal and Mila, advised by Yashar Hezaveh and Laurence Perreault-Levasseur. I work on probabilistic machine learning for strong gravitational lensing and dark matter.
 
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+During my MSc, I worked on correcting misspecified score-based priors in inverse imaging. My PhD work extends this toward joint inference over sources, lens mass, substructure fields, and dark-matter model parameters.
 
-Work in progress... Come back later! :D
+I am from Mexico and did my BSc in Physics at the University of Guanajuato. Outside research, I like house plants, coffee, and hikes when the weather cooperates.

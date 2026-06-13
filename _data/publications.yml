@@ -1,0 +1,190 @@
+- title: "MIRA: A Score for Conditional Distribution Accuracy and Model Comparison"
+  authors: "Sammy Nasser Sharief, Justine Zeghal, Gabriel Missael Barco, Pablo Lemos, Yashar Hezaveh, Laurence Perreault-Levasseur"
+  year: "2026"
+  venue: "International Conference on Machine Learning"
+  status: "Accepted, spotlight"
+  section: "Selected papers"
+  role: "Co-author"
+  summary: "A method for checking conditional distribution estimates and comparing probabilistic models."
+  tags:
+    - posterior validation
+    - model comparison
+    - probabilistic ML
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2605.02014"
+
+- title: "Tackling the Problem of Distributional Shifts: Correcting Misspecified, High-Dimensional Data-Driven Priors for Inverse Problems"
+  authors: "Gabriel Missael Barco, Alexandre Adam, Connor Stone, Yashar Hezaveh, Laurence Perreault-Levasseur"
+  year: "2025"
+  venue: "The Astrophysical Journal, 980, 108"
+  status: "Journal article"
+  section: "Selected papers"
+  role: "First author"
+  summary: "An update procedure that reduces bias from misspecified simulation-trained priors."
+  tags:
+    - score-based models
+    - inverse problems
+    - distribution shift
+    - strong lensing
+  links:
+    - label: "DOI"
+      url: "https://doi.org/10.3847/1538-4357/ad9b92"
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2407.17667"
+
+- title: "Blind Strong Gravitational Lensing Inversion: Joint Inference of Source and Lens Mass with Score-Based Models"
+  authors: "Gabriel Missael Barco, Ronan Legin, Connor Stone, Yashar Hezaveh, Laurence Perreault-Levasseur"
+  year: "2025"
+  venue: "NeurIPS Workshop on Machine Learning and the Physical Sciences; ML4Astro, co-located with ICML"
+  status: "Peer-reviewed workshop paper"
+  section: "Selected papers"
+  role: "First author"
+  summary: "Joint inference of source galaxies and lens-mass parameters from noisy lensing images."
+  tags:
+    - strong lensing
+    - Bayesian inference
+    - score-based priors
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.04792"
+    - label: "NeurIPS poster"
+      url: "https://neurips.cc/virtual/2025/122888"
+    - label: "ML4Astro paper"
+      url: "https://ml4astro.github.io/icml2025/assets/camera_ready/35_Blind_Strong_Gravitational_.pdf"
+
+- title: "Caustics: A Python Package for Accelerated Strong Gravitational Lensing Simulations"
+  authors: "Connor Stone, Alexandre Adam, Adam Coogan, M. J. Yantovski-Barth, Andreas Filipp, Landung Setiawan, Cordero Core, Ronan Legin, Charles Wilson, Gabriel Missael Barco, Yashar Hezaveh, Laurence Perreault-Levasseur"
+  year: "2024"
+  venue: "Journal of Open Source Software, 9(103), 7081"
+  status: "Software paper"
+  section: "Selected papers"
+  role: "Contributor"
+  summary: "Open-source, GPU-accelerated software for differentiable strong-lensing simulations."
+  tags:
+    - scientific software
+    - strong lensing
+    - PyTorch
+  links:
+    - label: "JOSS"
+      url: "https://joss.theoj.org/papers/10.21105/joss.07081"
+    - label: "GitHub"
+      url: "https://github.com/Ciela-Institute/caustics"
+
+- title: "Correction, guidée par les données, de distributions a priori biaisées en haute dimension pour l'astrophysique"
+  authors: "Gabriel Missael Barco"
+  year: "2025"
+  venue: "Université de Montréal, M.Sc. thesis"
+  status: "M.Sc. thesis"
+  section: "Theses"
+  role: "Author"
+  summary: "MSc thesis on correcting biased high-dimensional priors for astrophysical inverse problems."
+  tags:
+    - learned priors
+    - inverse problems
+    - astrophysics
+  links:
+    - label: "Scholaris"
+      url: "https://umontreal.scholaris.ca/items/5ecd2b01-9ad4-439b-bd7c-abbc472a9be1"
+    - label: "DOI"
+      url: "https://doi.org/10.71781/32597"
+
+- title: "The EDIBLES Survey IX: Simulations of the lambda 6614 DIB Profile Variations: A Surprising Connection with CH+"
+  authors: "Charmi Bhatt, Jan Cami, Peter J. Sarre, Harold Linnartz, Nick L. J. Cox, Amin Farhang, Jonathan Smoker, Heather MacIsaac, Haoyu Fan, Alexander Ebenbichler, Harshit Khandelwal, Alex Romanec, Meriem Elyajouri, Pascale Ehrenfreund, Bernard H. Foing, Ana Monreal-Ibero, Gabriel Missael Barco, Jacco Th. van Loon"
+  year: "2025"
+  venue: "ACS Earth and Space Chemistry, 9(2), 227-240"
+  status: "Journal article"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Paper from my Mitacs Globalink work on molecular spectra and diffuse interstellar bands."
+  tags:
+    - astrochemistry
+    - spectroscopy
+    - Mitacs
+  links:
+    - label: "DOI"
+      url: "https://doi.org/10.1021/acsearthspacechem.4c00238"
+
+- title: "Online Education in Times of COVID: Adapting and Deploying a Data Science Program in Mexico"
+  authors: "Andrea Monserrat Arredondo-Rodriguez, Gabriel Missael Barco, Claudia I. Garcia-Gil, Alicia del Carmen Hernandez-Guzman, Rogelio Antonio Hernandez-Lopez, Benjamin Manuel Sanchez-Lengeling, Carla Marquez-Luna"
+  year: "2022"
+  venue: "Harvard Data Science Review, 4(2)"
+  status: "Journal article"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Lessons from moving a hands-on data science program in Mexico online during COVID."
+  tags:
+    - STEM education
+    - data science
+    - Mexico
+  links:
+    - label: "Article"
+      url: "https://hdsr.mitpress.mit.edu/pub/drhcgp91"
+    - label: "DOI"
+      url: "https://doi.org/10.1162/99608f92.65cb18b5"
+
+- title: "Mind the Information Gap: Unveiling Detailed Morphologies of z 0.5-1.0 Galaxies with SLACS Strong Lenses and Data-Driven Analysis"
+  authors: "Ronan Legin, Connor Stone, Alexandre Adam, Gabriel Missael Barco, Adam Coogan, Nikolay Malkin, Laurence Perreault-Levasseur, Yashar Hezaveh"
+  year: "2025"
+  venue: "Submitted manuscript"
+  status: "Preprint"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Uses generative priors to reconstruct source galaxies, lens light, and PSFs in real lensing systems."
+  tags:
+    - strong lensing
+    - real data
+    - generative priors
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.19595"
+
+- title: "Pixellated Posterior Sampling of Point Spread Functions in Astronomical Images"
+  authors: "Connor Stone, Ronan Legin, Alexandre Adam, Nikolay Malkin, Gabriel Missael Barco, Laurence Perreault-Levasseur, Yashar Hezaveh"
+  year: "2025"
+  venue: "Submitted manuscript"
+  status: "Preprint"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Bayesian pixel-level PSF modeling with a generative prior for astronomical imaging."
+  tags:
+    - astronomical imaging
+    - posterior sampling
+    - PSF modeling
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/2511.19594"
+
+- title: "Pokie: Posterior Accuracy and Model Comparison"
+  authors: "Sammy Nasser Sharief, Justine Zeghal, Gabriel Missael Barco, Pablo Lemos, Yashar Hezaveh, Laurence Perreault-Levasseur"
+  year: "2025"
+  venue: "ML4Astro, co-located with ICML; NeurIPS Frontiers in Probabilistic Inference"
+  status: "Peer-reviewed workshop paper"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Sample-based posterior checking and model comparison from simulator joint samples."
+  tags:
+    - posterior validation
+    - simulation-based inference
+    - model comparison
+  links:
+    - label: "ML4Astro paper"
+      url: "https://ml4astro.github.io/icml2025/assets/camera_ready/52_Pokie_Posterior_Accuracy_an.pdf"
+    - label: "OpenReview"
+      url: "https://openreview.net/pdf?id=KhdHnIwNIo"
+
+- title: "Addressing Misspecified Physical Models: Correcting Underspecified Lens Convergence Models via Data-Driven Updates"
+  authors: "Nicolas Payot, Gabriel Missael Barco, Laurence Perreault-Levasseur, Yashar Hezaveh"
+  year: "2025"
+  venue: "ML4Astro, co-located with ICML"
+  status: "Peer-reviewed workshop paper"
+  section: "Additional papers"
+  role: "Co-author"
+  summary: "Applies prior updates to misspecified lens convergence models in strong-lensing analysis."
+  tags:
+    - model misspecification
+    - strong lensing
+    - learned priors
+  links:
+    - label: "Paper"
+      url: "https://ml4astro.github.io/icml2025/assets/camera_ready/49_Addressing_Misspecified_Phy.pdf"

@@ -1,8 +1,8 @@
 title: Gabriel Missael Barco
-subtitle: PhD student @ Université de Montréal & Mila
-email: missaelgabo@gmail.com
+subtitle: PhD student in Physics at Université de Montréal and Mila
+email: gabriel.missael.barco@umontreal.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Astrophysics × Probabilistic ML | PhD student @ Université de Montréal & Mila
+  PhD student working on probabilistic machine learning for strong gravitational lensing and dark matter.
 twitter_username: GMissaelBarco
 github_username: GabrielMissael
 minimal_mistakes_skin: default
@@ -11,14 +11,13 @@ locale: "en-US"
 repository: "GabrielMissael/GabrielMissael.github.io"
 teaser: /assets/images/500x300.png
 logo: "/assets/images/88x88.png"
+url: "https://gabrielmissael.github.io"
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
 timezone: America/Montreal # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -27,14 +26,11 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - materials
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Plugins (previously gems:)
 plugins:
@@ -46,14 +42,21 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : ""
+  name   : "Gabriel Missael Barco"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : >-
+    PhD student in Physics at Université de Montréal and Mila. Probabilistic ML for strong lensing and dark matter.
   location: "Montréal, Canada"
   links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0009-0008-5839-5937"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
+    - label: "Hugging Face"
+      icon: "fas fa-fw fa-cube"
+      url: "https://huggingface.co/GMissaelBarco"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
@@ -66,9 +69,15 @@ author:
 
 footer:
   links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0009-0008-5839-5937"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GabrielMissael"
+    - label: "Hugging Face"
+      icon: "fas fa-fw fa-cube"
+      url: "https://huggingface.co/GMissaelBarco"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gmissaelbarco/"
